@@ -1,0 +1,40 @@
+body{color:#666;
+background-color:#eee;
+}
+.login-container{
+height:100vh;
+width:100%;
+}
+.login-form{
+max-width : 100%;
+width: 370px;
+padding: 15px;
+margin : auto;}
+.form-control{
+font-size:15px;
+min-height:48;
+font-weight:500;}
+
+
+
+   
+        .input-icons i { 
+            position: absolute; 
+        } 
+          
+        .input-icons { 
+            width: 100%; 
+            margin-bottom: 10px; 
+        } 
+          
+        .icon { 
+            padding: 10px; 
+            min-width: 40px; 
+        } 
+          
+        .input-field { 
+            width: 100%; 
+            padding: 10px; 
+            text-align: center; 
+        } 
+    
